@@ -54,6 +54,8 @@ public class Adding_To_cart {
 
 		System.out.println(driver.findElement(By.cssSelector("span.promoInfo")).getText());
 		
+		System.out.println("First git update");
+		
 		
 		
 		
